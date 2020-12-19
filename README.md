@@ -1,4 +1,4 @@
-# Welcome to my page [angelos plastropoulos](http://codingadventures.org/)
+# Welcome to my page, call me [angelo](http://codingadventures.org/)
 C++ | C | Python | ROS   
 
 ![alt text](https://github.com/plusangel/plusangel/blob/main/github.jpg)
