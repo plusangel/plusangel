@@ -1,16 +1,15 @@
-### Hi there 👋
+# [angelos plastropoulos](http://codingadventures.org/)
+C++ | Python | ROS   
 
-<!--
-**plusangel/plusangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://github.com/plusangel/plusangel/blob/master/github.jpg)
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
 
-Here are some ideas to get you started:
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<a href="mailto:ayushi7rawat@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[twitter]: https://twitter.com/iplusangel
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/angelosplastropoulos/
