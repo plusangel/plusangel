@@ -1,7 +1,7 @@
 # [angelos plastropoulos](http://codingadventures.org/)
 C++ | Python | ROS   
 
-![alt text](https://github.com/plusangel/plusangel/github.jpg)
+![alt text](https://github.com/plusangel/plusangel/blob/master/github.jpg)
 <p align="center">
   Let's connect! Find me on the web.
 
