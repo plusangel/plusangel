@@ -1,5 +1,5 @@
-# [angelos plastropoulos](http://codingadventures.org/)
-C++ | Python | ROS   
+# Welcome to my page [angelos plastropoulos](http://codingadventures.org/)
+C++ | C | Python | ROS   
 
 ![alt text](https://github.com/plusangel/plusangel/blob/main/github.jpg)
 <p align="center">
