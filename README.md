@@ -1,7 +1,7 @@
 # welcome to my profile, call me [angelos](http://codingadventures.org/)
 C++ | C | Python | C# | MATLAB   
 
-![alt text](https://github.com/plusangel/plusangel/blob/main/github.jpg)
+![alt text](https://github.com/plusangel/plusangel/blob/main/cover.jpg)
 <p align="center">
   Let's connect! Find me on the web.
 
