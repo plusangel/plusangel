@@ -1,5 +1,5 @@
 # welcome to my profile, call me [angelos](http://codingadventures.org/)
-C++ | C | Python | C# | MATLAB   
+C++ | C | C# | Rust | Python | MATLAB   
 
 ![alt text](https://github.com/plusangel/plusangel/blob/main/cover.jpg)
 <p align="center">
